@@ -1,0 +1,17 @@
+a = 5
+b = 4.5
+c = False
+d = "bye"
+
+print (type(a))
+print (type(b))
+print (type(c))
+print (type(d))
+
+#Activity 2
+e = "5"
+l = "2"
+print("The output before type casting is " ,e+l)
+e = int("5")
+l = int("2")
+print("The output after type casting is " ,e+l )
