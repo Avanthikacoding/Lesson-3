@@ -15,3 +15,6 @@ print("The output before type casting is " ,e+l)
 e = int("5")
 l = int("2")
 print("The output after type casting is " ,e+l )
+#Activity 3
+answer = str(input("Enter a string: "))
+print("That is correct! The answer is " ,answer)
